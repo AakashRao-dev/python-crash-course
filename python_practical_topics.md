@@ -7,6 +7,7 @@
 - for loop
 - nested loop
 - break & continue
+- switch case
 
 ### 2. Operators & I/O Operations
 
